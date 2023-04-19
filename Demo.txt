@@ -1,1 +1,2 @@
 Demo text for learning GIT
+This is fun
